@@ -1,0 +1,14 @@
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/倍壮充.jpg 11,37,45,62,0 54,51,86,79,0 115,31,148,62,0 199,23,236,48,0 151,60,184,84,0 206,58,244,84,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/倍撒款.jpg 20,19,49,46,0 84,26,120,53,0 42,61,79,81,0 169,8,199,37,0 170,46,206,70,0 215,61,244,81,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/备嘴伦.jpg 47,7,76,34,0 121,61,153,85,0 136,29,161,49,0 175,14,203,39,0 210,26,242,47,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/岸质执.jpg 17,38,48,67,0 34,14,61,35,0 138,23,172,46,0 129,61,160,83,0 190,34,220,55,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/币吧荣.jpg 1,12,29,44,0 16,55,51,83,0 36,24,70,49,0 90,34,122,60,0 194,51,229,74,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/彼志抢.jpg 136,46,161,66,0 44,46,75,69,0 8,48,40,73,0 169,11,195,31,0 236,17,265,40,0 229,44,260,71,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/彼支声.jpg 26,16,56,46,0 86,53,115,79,0 136,21,166,44,0 133,62,162,85,0 206,64,238,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/悲纳帝.jpg 30,46,58,73,0 77,57,108,80,0 49,24,72,39,0 149,40,181,64,0 226,57,251,76,0 247,20,275,42,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/把夺款.jpg 20,44,56,69,0 47,21,79,39,0 92,60,119,79,0 120,24,140,46,0 222,31,243,49,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/把尚仲.jpg 16,26,49,53,0 65,60,101,80,0 94,23,122,47,0 154,35,185,57,0 227,31,265,60,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/挨弥失.jpg 2,29,33,57,0 35,17,69,44,0 92,34,131,55,0 156,46,186,64,0 236,38,274,58,0 229,64,260,84,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/暗解阅.jpg 4,40,38,67,0 83,11,117,30,0 95,64,126,83,0 110,31,145,56,0 162,16,199,34,0 149,58,181,81,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/比策知.jpg 52,39,72,57,0 90,65,118,85,0 104,16,133,34,0 145,37,165,55,0 189,38,213,61,0 230,40,257,65,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/般训弱.jpg 16,26,49,51,0 66,26,101,48,0 80,61,110,81,0 177,17,207,42,0 213,52,245,75,0 235,15,267,44,0

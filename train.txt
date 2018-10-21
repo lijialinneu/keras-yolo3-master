@@ -1,0 +1,106 @@
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/丁拒滋.jpg 20,20,51,48,0 3,56,45,79,0 90,28,120,53,0 158,10,190,38,0 210,24,243,49,0 131,40,165,73,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/丁莲慈.jpg 95,21,134,53,0 58,58,92,85,0 204,7,245,38,0 157,65,184,81,0 203,39,238,71,0 243,60,280,84,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/倍位轮.jpg 42,20,74,44,0 95,20,135,48,0 234,19,266,47,0 29,51,54,78,0 65,51,93,78,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/倍奶束.jpg 13,10,49,35,0 70,10,108,34,0 31,42,61,65,0 79,38,104,61,0 170,56,199,79,0 212,38,236,64,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/倍疯赌.jpg 7,29,39,57,0 80,58,112,81,0 117,53,154,78,0 167,56,201,79,0 242,16,274,44,0 215,53,247,80,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/傲泽划.jpg 43,60,72,75,0 129,56,171,80,0 119,14,148,38,0 190,12,225,39,0 194,57,230,85,0 151,10,184,38,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/办碰遇.jpg 52,28,88,56,0 94,10,129,35,0 217,28,253,52,0 112,51,147,79,0 153,38,184,65,0 206,60,243,84,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/办试过.jpg 35,48,71,81,0 140,30,172,56,0 140,56,175,80,0 180,19,216,44,0 188,53,216,71,0 243,20,280,43,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/办释偶.jpg 24,23,57,46,0 93,46,119,67,0 101,19,125,39,0 171,17,197,37,0 219,20,251,49,0 190,49,220,75,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/北亲娃.jpg 11,61,40,84,0 53,10,85,39,0 97,12,135,40,0 143,26,175,53,0 180,53,208,81,0 225,38,260,66,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/北企了.jpg 2,46,31,71,0 24,25,52,46,0 69,15,104,39,0 83,60,115,81,0 174,44,198,69,0 203,38,239,62,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/北实辑.jpg 10,39,44,62,0 36,8,71,37,0 75,51,103,76,0 75,17,110,39,0 145,28,170,44,0 188,58,217,83,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/北损突.jpg 39,39,71,62,0 117,16,151,40,0 170,11,195,37,0 235,15,269,37,0 181,56,216,79,0 239,58,271,83,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/北搬剪.jpg 33,58,67,83,0 88,26,119,52,0 151,19,185,43,0 217,53,252,76,0 233,30,261,48,0 175,42,210,67,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/北牲省.jpg 34,38,63,64,0 85,25,117,46,0 124,26,154,52,0 181,28,219,49,0 239,49,270,71,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/半伸为.jpg 2,24,34,49,0 99,16,133,46,0 45,53,80,80,0 202,17,233,39,0 160,38,192,65,0 116,51,153,74,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/半扣内.jpg 29,12,62,39,0 102,25,133,53,0 139,15,174,42,0 210,24,242,49,0 231,57,265,78,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/半断铭.jpg 10,34,40,56,0 70,25,99,46,0 143,21,176,44,0 235,10,270,33,0 156,58,193,81,0 236,52,274,79,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/半米风.jpg 30,61,65,83,0 90,38,115,60,0 135,25,170,51,0 134,58,160,76,0 204,58,240,81,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/半露着.jpg 33,16,66,44,0 71,19,106,43,0 153,8,190,38,0 77,44,116,69,0 129,42,165,62,0 203,43,236,69,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/吧丹搭.jpg 31,23,66,51,0 74,43,108,71,0 131,31,165,57,0 181,12,217,40,0 221,25,254,49,0 167,56,206,76,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/吧即速.jpg 8,21,38,39,0 15,57,51,81,0 71,10,106,37,0 136,48,166,71,0 180,29,213,57,0 202,64,235,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/吧提仁.jpg 1,16,31,38,0 101,55,145,81,0 99,52,140,80,0 152,20,186,46,0 225,30,253,51,0 138,52,176,73,0 224,56,257,78,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/吧盗莫.jpg 65,33,90,52,0 92,61,121,85,0 124,29,156,52,0 166,8,194,33,0 210,39,245,62,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/吧话访.jpg 25,29,60,55,0 84,14,119,40,0 80,55,107,78,0 148,48,181,71,0 184,19,216,43,0 235,40,275,70,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/啊保款.jpg 16,23,54,48,0 71,20,103,42,0 108,62,144,85,0 194,49,225,71,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/啊妙送.jpg 65,15,97,35,0 35,46,61,67,0 101,31,131,57,0 166,40,207,61,0 195,11,233,40,0 222,38,257,66,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/啊牌制.jpg 17,37,53,64,0 51,61,85,84,0 116,57,153,84,0 165,57,166,57,0 167,56,197,79,0 189,23,226,49,0 213,47,253,76,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/啊食弱.jpg 79,52,112,79,0 111,11,140,35,0 139,48,176,73,0 175,24,199,40,0 203,38,244,64,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/备愁纹.jpg 4,23,36,47,0 70,16,103,42,0 116,58,147,83,0 20,58,47,84,0 222,58,254,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/备摘宅.jpg 16,12,47,37,0 47,52,77,74,0 81,17,110,39,0 149,60,184,81,0 212,58,238,79,0 231,11,262,35,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/备越物.jpg 22,25,52,53,0 110,55,140,79,0 149,24,181,51,0 194,58,220,81,0 216,26,249,52,0 242,58,271,83,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/奔悔简.jpg 66,43,93,66,0 99,12,130,39,0 110,42,144,64,0 181,19,213,44,0 160,51,192,76,0 225,56,254,79,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/奥丢雾.jpg 43,19,74,46,0 30,48,65,73,0 79,47,116,70,0 133,31,167,53,0 157,51,201,75,0 216,62,248,83,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/奥毒座.jpg 15,35,45,58,0 53,46,86,70,0 113,17,142,40,0 129,47,160,69,0 233,23,266,49,0 229,58,266,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/奥测和.jpg 39,17,74,42,0 62,65,97,85,0 102,29,135,53,0 142,26,176,55,0 176,20,215,44,0 245,35,270,58,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/奥随得.jpg 83,56,120,75,0 71,26,98,49,0 145,35,177,57,0 230,14,260,42,0 215,57,249,83,0 8,60,34,78,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/奥频单.jpg 29,46,63,69,0 70,61,103,83,0 119,34,142,52,0 171,55,194,75,0 233,28,265,53,0 243,49,279,78,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/奥齿形.jpg 26,11,54,39,0 74,43,116,71,0 89,15,120,38,0 174,31,208,58,0 239,28,270,55,0 169,61,211,83,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/安纵扇.jpg 95,51,117,67,0 142,12,170,35,0 134,33,171,60,0 225,31,254,58,0 143,61,181,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/岸伟巡.jpg 26,23,54,48,0 74,14,108,38,0 108,43,139,67,0 154,14,195,42,0 207,31,233,51,0 140,61,184,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/岸常泥.jpg 11,8,45,39,0 13,48,49,71,0 49,10,81,37,0 93,35,126,67,0 167,64,203,83,0 212,30,248,58,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/岸稍发.jpg 26,46,60,70,0 69,26,99,49,0 98,55,131,76,0 129,19,156,40,0 175,42,208,65,0 226,19,267,48,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/岸袖罢.jpg 33,35,62,57,0 74,44,104,67,0 108,21,140,48,0 148,49,179,76,0 201,39,229,60,0 225,20,254,46,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/岸详旨.jpg 13,25,45,48,0 24,60,60,80,0 86,53,119,78,0 116,21,148,48,0 151,15,181,39,0 133,52,169,76,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/岸误试.jpg 15,51,51,78,0 57,19,90,44,0 99,14,133,42,0 80,43,107,64,0 219,43,253,70,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/币袋虑.jpg 40,20,69,43,0 81,17,112,39,0 136,8,174,34,0 76,48,108,73,0 172,58,202,80,0 215,65,246,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/彼季块.jpg 4,51,34,76,0 17,16,45,39,0 149,23,185,48,0 239,14,269,40,0 242,39,270,67,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/悲掩卿.jpg 38,28,67,51,0 47,53,77,78,0 148,34,179,60,0 185,47,217,70,0 245,12,275,38,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/悲胸厚.jpg 19,48,44,70,0 130,34,157,56,0 142,60,170,83,0 186,29,217,53,0 210,57,239,81,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/悲警衣.jpg 36,23,66,46,0 62,61,93,83,0 107,34,135,58,0 217,10,244,34,0 242,52,272,74,0 204,48,227,71,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/把叶结.jpg 43,28,65,52,0 44,57,77,81,0 80,66,111,85,0 102,17,138,37,0 148,55,177,74,0 201,16,234,47,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/把处服.jpg 94,12,127,39,0 116,62,148,81,0 199,11,230,33,0 189,44,211,67,0 222,60,256,80,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/把撒室.jpg 17,61,47,83,0 57,48,88,71,0 79,15,108,39,0 140,25,175,51,0 184,26,216,53,0 243,11,274,34,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/挨吓楚.jpg 35,47,72,71,0 115,40,151,69,0 79,60,110,84,0 145,10,177,39,0 201,17,238,40,0 229,57,266,81,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/挨怒凉.jpg 48,35,79,57,0 117,21,149,46,0 179,29,217,51,0 170,60,203,84,0 220,55,256,73,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/挨狱堡.jpg 16,12,48,35,0 56,31,86,55,0 188,11,217,35,0 134,62,175,85,0 174,48,208,78,0 221,42,260,78,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/挨者邻.jpg 6,8,38,37,0 62,46,95,73,0 77,14,112,37,0 166,17,199,43,0 212,42,242,64,0 247,12,277,37,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/搬狗植.jpg 36,17,69,42,0 92,21,126,42,0 172,55,208,78,0 229,29,266,52,0 220,58,262,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/搬猪逸.jpg 58,62,88,83,0 79,20,116,40,0 127,28,154,43,0 167,20,201,44,0 229,14,254,35,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/搬盈气.jpg 25,47,60,74,0 86,11,113,34,0 71,56,108,78,0 129,26,156,49,0 174,12,204,37,0 193,58,222,84,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/搬肉仍.jpg 34,43,67,65,0 117,61,149,83,0 163,14,201,34,0 195,34,230,61,0 231,11,266,34,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/搬镜支.jpg 31,62,64,85,0 66,17,104,40,0 92,49,113,73,0 131,56,165,80,0 190,8,230,37,0 229,57,262,81,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/搬魏召.jpg 20,14,44,34,0 62,20,92,47,0 176,19,212,40,0 179,47,211,71,0 225,23,262,52,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/摆兴誉.jpg 81,47,112,70,0 95,14,121,38,0 160,15,183,39,0 166,55,201,80,0 234,12,270,37,0 221,57,254,79,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/摆研州.jpg 92,29,127,56,0 133,19,167,43,0 139,44,169,67,0 190,42,225,64,0 210,15,249,38,0 235,35,272,71,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/摆芳钢.jpg 6,53,43,81,0 124,53,161,78,0 172,25,206,51,0 229,30,267,53,0 236,58,271,80,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/摆著译.jpg 36,53,69,75,0 97,57,134,81,0 165,23,202,47,0 197,55,234,79,0 238,33,271,64,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/既伴丁.jpg 6,29,38,55,0 11,60,38,81,0 60,44,92,64,0 126,23,158,48,0 190,49,220,75,0 231,38,262,60,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/暗刀嘉.jpg 21,48,47,71,0 47,17,79,46,0 133,38,166,61,0 136,65,165,85,0 176,19,203,38,0 221,42,258,70,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/暗啊驻.jpg 24,47,62,73,0 99,58,134,84,0 98,28,122,52,0 149,31,185,55,0 207,29,240,57,0 215,62,240,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/暗士挣.jpg 49,28,83,57,0 144,16,171,38,0 107,55,133,80,0 175,34,204,61,0 140,65,166,85,0 245,33,277,60,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/暗曲板.jpg 8,61,47,85,0 75,28,113,49,0 148,65,178,85,0 181,21,219,46,0 224,34,254,58,0 213,66,239,85,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/本席乱.jpg 12,48,40,75,0 67,30,86,49,0 160,60,186,81,0 163,21,185,38,0 195,33,224,57,0 245,42,272,65,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/本王假.jpg 40,53,66,74,0 67,23,95,47,0 113,62,142,85,0 161,55,180,74,0 195,17,229,39,0 229,47,254,69,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/本璃战.jpg 8,19,33,44,0 8,64,35,85,0 49,10,76,33,0 127,52,156,78,0 217,46,239,64,0 245,12,269,31,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/本稳睡.jpg 4,47,31,67,0 39,12,67,35,0 71,42,103,61,0 81,65,110,85,0 179,48,211,71,0 243,39,271,61,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/本触塞.jpg 26,42,57,67,0 94,31,122,55,0 156,15,180,37,0 202,33,227,55,0 242,46,276,69,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/本贝听.jpg 15,12,43,38,0 70,57,94,79,0 88,29,112,52,0 147,51,176,71,0 202,42,236,70,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/案判腿.jpg 35,46,70,79,0 58,19,89,42,0 110,35,140,60,0 181,16,213,34,0 154,65,181,85,0 198,56,227,80,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/案坡翼.jpg 76,24,110,48,0 119,15,160,35,0 133,38,165,58,0 110,60,142,84,0 213,51,242,71,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/案昨笔.jpg 13,49,47,74,0 115,10,149,39,0 119,61,153,81,0 166,24,201,46,0 169,51,199,69,0 217,25,248,51,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/案篇拆.jpg 3,15,30,44,0 84,11,107,31,0 84,40,115,65,0 104,67,136,85,0 224,55,261,81,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/比倾莱.jpg 11,12,36,33,0 66,52,97,73,0 72,19,104,42,0 166,24,197,51,0 213,17,249,40,0 229,48,256,69,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/比毁办.jpg 2,46,34,67,0 67,65,95,85,0 113,43,142,67,0 175,38,197,56,0 195,65,221,79,0 221,14,251,34,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/比货汤.jpg 206,10,235,39,0 152,60,179,85,0 148,31,177,53,0 49,65,71,85,0 8,55,33,74,0 20,17,43,42,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/爱饱耐.jpg 7,51,36,76,0 61,20,97,40,0 103,11,135,35,0 84,42,122,64,0 195,31,220,53,0 233,29,269,62,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/爸城喷.jpg 21,21,54,47,0 44,61,80,81,0 94,40,126,62,0 151,21,184,44,0 162,61,191,85,0 219,21,256,48,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/爸此弟.jpg 24,53,58,79,0 51,21,83,43,0 95,55,129,74,0 117,24,154,49,0 174,14,203,38,0 221,24,253,49,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/爸辈白.jpg 25,28,54,52,0 35,57,65,78,0 129,43,171,65,0 122,42,161,71,0 134,14,166,39,0 177,30,210,56,0 211,57,251,81,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/白凑俩.jpg 11,30,43,48,0 61,52,95,75,0 76,24,112,51,0 139,14,171,37,0 158,47,192,71,0 238,19,263,42,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/白崇趋.jpg 29,11,63,34,0 56,39,81,60,0 102,20,130,46,0 154,19,186,47,0 133,51,170,75,0 235,15,269,42,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/白洛增.jpg 17,35,56,57,0 58,57,94,84,0 85,35,119,64,0 153,30,184,57,0 226,28,262,47,0 216,55,252,75,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/白车四.jpg 2,34,29,57,0 47,33,84,62,0 112,52,151,75,0 204,10,240,35,0 229,49,257,75,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/笔华贫.jpg 6,28,33,48,0 43,14,75,35,0 112,16,134,37,0 162,40,185,61,0 240,34,266,53,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/艾洲都.jpg 8,8,42,31,0 54,34,85,60,0 97,38,127,65,0 174,26,202,53,0 174,58,207,74,0 222,53,254,76,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/艾灰仿.jpg 11,43,42,69,0 67,56,101,81,0 75,14,106,39,0 126,21,157,49,0 177,11,208,35,0 215,29,251,56,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/艾畅奋.jpg 48,25,80,51,0 70,62,98,80,0 153,62,183,85,0 161,37,193,58,0 208,15,244,38,0 204,44,239,67,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/败命资.jpg 27,53,58,74,0 86,42,117,65,0 142,24,176,47,0 134,56,163,75,0 188,17,230,44,0 197,57,224,79,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/败图猛.jpg 4,26,39,58,0 69,61,101,85,0 92,12,120,37,0 153,11,181,34,0 154,49,177,74,0 234,33,270,57,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/败妻累.jpg 44,38,76,67,0 98,23,134,48,0 103,65,130,85,0 154,60,189,85,0 163,35,163,35,0 171,40,202,61,0 244,38,279,64,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/败跑肥.jpg 49,40,85,70,0 93,48,122,70,0 153,35,183,57,0 165,57,195,81,0 217,17,247,43,0 220,56,244,74,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/锋丁话.jpg 31,51,63,81,0 61,15,84,37,0 98,34,127,61,0 134,53,161,71,0 175,47,208,78,0 219,52,247,75,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/阿患汉.jpg 11,61,35,81,0 44,47,81,74,0 94,51,129,71,0 161,19,195,43,0 134,60,169,80,0 231,47,266,74,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/阿救市.jpg 8,23,43,47,0 30,52,62,74,0 74,21,108,48,0 147,14,179,38,0 149,43,183,65,0 224,42,254,64,0
+D:\project\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/阿浅蓬.jpg 3,21,27,47,0 70,29,104,52,0 93,64,125,81,0 134,35,165,64,0 170,60,202,79,0 216,57,252,83,0
