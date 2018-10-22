@@ -19,7 +19,10 @@ def _main():
     class_names = get_classes(classes_path)
     anchors = get_anchors(anchors_path)
     input_shape = (416,416) # multiple of 32, hw
-    model = create_model(input_shape, anchors, len(class_names) )
+
+    #########1、添加了参数True，为了预读之前的model###########
+    model = create_model(input_shape, anchors, len(class_names), True )
+
     train(model, annotation_path, input_shape, anchors, len(class_names), log_dir=log_dir)
 
 def train(model, annotation_path, input_shape, anchors, num_classes, log_dir='logs/'):
@@ -39,10 +42,11 @@ def train(model, annotation_path, input_shape, anchors, num_classes, log_dir='lo
 
 
     try :
+        #########2、修改epochs为25 ###########
         model.fit_generator(data_generator_wrap(lines[:num_train], batch_size, input_shape, anchors, num_classes),
             steps_per_epoch = max(1, num_train // batch_size),
             validation_data = data_generator_wrap(lines[num_train:], batch_size, input_shape, anchors, num_classes),
-            validation_steps = max(1, num_val // batch_size), epochs = 100, initial_epoch = 0)
+            validation_steps = max(1, num_val // batch_size), epochs = 25, initial_epoch = 0)
     except :
         print("error")
     finally:
